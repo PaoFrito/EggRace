@@ -11,4 +11,6 @@ Feel free to copy and reproduce this project.
   <li>Potentiometer</li>
   <li>Button</li>
 </ul>
- 
+
+<hr>
+<h4> This project also uses this library: https://github.com/cbm80amiga/Arduino_ST7789_Fast</h4>
